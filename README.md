@@ -53,16 +53,6 @@ My goal is to develop a strong foundation in:
 
 ---
 
-## Repository Structure
-
-├── notebooks/
-│   ├── day01_oop_sms_store.ipynb
-│   └── day02_data_structures.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
----
-
 ## Mini Projects
 
 - Expense Tracker
