@@ -1,10 +1,11 @@
 # Python Practice
 
-This repository contains my Python learning journey, practice exercises, experiments, and mini-projects.
+This repository will contain my Python learning journey, practice exercises, experiments, and mini-projects.
 
 ## About
 
 I created this repository to strengthen my Python fundamentals and build problem-solving skills through hands-on coding.
+I will try my best to regularly add and modify files as I progress through my Python learning path.
 
 My goal is to develop a strong foundation in:
 - Python Programming
@@ -17,15 +18,13 @@ My goal is to develop a strong foundation in:
 
 ---
 
-## Topics Covered
+## Prerequisite
 
-### Python Fundamentals
-- Variables
-- Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
+* **Foundational Python Knowledge:** This repository focuses on expanding intermediate to advanced concepts. It assumes you already have a basic understanding of standard Python syntax, basic control flow (if-else statements, loops), and data types.
+
+---
+
+## Topics Covered
 
 ### Data Structures
 - Lists
